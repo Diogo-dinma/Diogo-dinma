@@ -1,4 +1,4 @@
-- 🌸 Hi, I’m Treasure Okafor
+- 🌸 Hi, I’m Treasure 
 - 👩🏽‍💻 I’m interested in app development, database development and administration
 - 🌱 I’m currently learning SQL, PL/SQL, Python, HTML, CSS and Javascript
 - 👯‍♀️ Open to connect and collaborate on intermediate level projects around Database Development and Administration.
